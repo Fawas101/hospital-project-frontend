@@ -1,0 +1,25 @@
+
+.admin-panel {
+    padding: 20px;
+    background-color: grey;
+}
+
+h2 {
+    text-align: center;
+}
+
+.user-list,
+.doctor-list {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user{
+    background-color: whitesmoke;
+    padding: 30px;
+}

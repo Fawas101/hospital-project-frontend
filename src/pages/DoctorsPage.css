@@ -1,0 +1,28 @@
+.containerss {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://img.freepik.com/free-psd/interior-modern-emergency-room-with-empty-nurses-station-generative-ai_587448-2137.jpg?t=st=1716634086~exp=1716637686~hmac=01f9794ad957a5af8fa12313e74daae35afc9526a59e38379d5bc56406f15b8a&w=996'); /* Replace 'background-image.jpg' with your image file */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(230, 217, 217);
+  }
+
+  .containers {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5); /* Adjust the transparency as needed */
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  h2 {
+    margin-bottom: 20px;
+  }
+
+  p {
+    margin-bottom: 10px;
+  }

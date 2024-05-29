@@ -1,0 +1,40 @@
+.navbar{
+    background-color: #34495e;   
+    color: white;
+}
+
+.user-info-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user-avatar {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    margin-right: 5px;
+  }
+  
+  .username {
+    display: none; /* Initially hide the username */
+  }
+  
+  .user-info-container:hover .username {
+    display: block; /* Display the username when the container is hovered */
+  }
+  
+  footer {
+    background-color: #34495e;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .navbar-brand{
+    color: white;
+    font-weight: 700;
+  }
+
+  .btn-1{
+    background-color:#34495e;
+  }
